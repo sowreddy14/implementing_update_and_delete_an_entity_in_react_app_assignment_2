@@ -8,7 +8,7 @@
         {
             "id": "2",
             "name": "Back Door",
-            "status": "closed"
+            "status": "close"
         }
     ]
 }
